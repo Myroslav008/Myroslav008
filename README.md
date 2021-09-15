@@ -16,3 +16,10 @@
 
                 If you have any idea in blockchain part, please contact me.
                 ✨✨✨Will make your idea to real✨✨✨
+
+
+                          ☎️☎️☎️ Contact info ☎️☎️☎️
+                             Telegram: @blockchain_Seo
+                         Skype: live:.cid.d988520e52ffb31b
+                            Discord: blockchaindev#2608
+                            🎉🎉🎉Good regards🎉🎉🎉
