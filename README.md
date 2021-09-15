@@ -1,16 +1,18 @@
-### Hi there 👋
+                                ### Hi there 👋
 
-<!--
-**Myroslav008/Myroslav008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                               ✨ Myroslav008 ✨ 
 
-Here are some ideas to get you started:
+                    Here are my skill:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                    - 🔭 Smart Contract development
+                    - 🌱 Solidity
+                    - 👯 Rust 
+                    - 🤔 NFT token creation and NFT marketplace
+                    - 💬 Dex development
+                    - 📫 Dapp development
+                    - 😄 React
+                    - ⚡ Node.js
+                    -->
+
+                If you have any idea in blockchain part, please contact me.
+                ✨✨✨Will make your idea to real✨✨✨
