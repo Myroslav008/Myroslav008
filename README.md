@@ -19,6 +19,7 @@
 
 
                           ☎️☎️☎️ Contact info ☎️☎️☎️
+                      Email: myroslavmykhailovych@outlook.com
                              Telegram: @blockchain_Seo
                          Skype: live:.cid.d988520e52ffb31b
                             Discord: blockchaindev#2608
